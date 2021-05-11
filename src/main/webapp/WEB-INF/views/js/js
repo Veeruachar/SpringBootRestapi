@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title> Events Gallery </title>
+    <link rel="stylesheet" type="text/css" href:"css/style.css">
+</head>
+    <body>
+    <h1> Events </h1>
+    
+    </body>
+</html>
+
+
+body{
+    font-family:sans-serif;
+}
+h1{
+    text-align:center;
+    color:forestgreen;
+    margin: 30px 0 50px;
+}

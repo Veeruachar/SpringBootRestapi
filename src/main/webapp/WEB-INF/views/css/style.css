@@ -1,0 +1,140 @@
+body{
+margin: 0;
+padding: 4em;
+font-family:fantasy;
+}
+.htext{
+font-family: 'Bree Serif', serif;
+}
+nav{
+    position: relative;
+width: 100%;
+background-color:black;
+padding: 0 50px;
+    box-sizing: border-box;
+}
+nav h1{
+margin: :0;
+padding: 15px 20px;
+float: left;
+}
+nav h1 a{
+color: #fff;
+text-decoration: none;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    float: right;  
+}
+nav ul li{
+list-style:none;
+display: inline-block;
+padding: 20px 30px;
+transition: .5s;
+    
+}
+nav ul li a
+{
+    color: #fff;
+    text-decoration: none;
+    
+}
+nav ul li:hover{
+    background: #f2184f;
+    border-radius: 60%;
+    
+}
+.header{
+width:100%;
+height:10%;
+}
+.header img{
+    float: left;
+    
+}
+.header a{
+float: right;
+color: darkviolet;
+box-sizing: content-box;
+    border:2px solid black;
+}
+.header h1{
+    color:darkblue;
+    padding-right: 5%;
+    float: right;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+/* * {box-sizing: border-box} */
+body {font-family: "Lato", sans-serif;}
+
+.sidenav button{
+display: block;}
+
+/* Change background color of buttons on hover */
+.sidenav button:hover {
+  background-color: #fff;
+}
+
+/* Create an active/current "tab button" class */
+.sidenav button.active {
+  background-color:darkgray;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+  float: left;
+  padding: 0px 12px;
+  /*border: 1px solid #ccc;*/
+  width: 70%;
+  /*border-left: none;*/
+  height: 300px;
+}
+
+.sidenav{
+float:left;
+height:80%;
+width:20%;
+padding:0;
+margin;5%;
+}
+.sidenav a{
+text-decoration: none;
+padding:2%;
+margin:2%;
+font-family: sans-serif;
+}
+
+.path{
+float:left;}
+.content{
+align-content: center;}
+
+.button a{
+    text-decoration: none;
+    padding;1%;
+    margin:1%;
+    background-color:black;
+    color:white;
+    border-radius: 25px;
+}
+.button a:hover{
+    background-color: #f2184f;
+}
+ 
+
+
+
+
+
+
+
+
